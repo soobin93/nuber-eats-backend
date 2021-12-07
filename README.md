@@ -13,3 +13,4 @@ The backend part of Nuber Eats clone-coding project!
 2. Validation pipe
 3. nestjs config (.env) / cross-env packages (.env.test, .env.dev)
 4. TypeORM set up
+5. Install Joi to schema validation (.env)
